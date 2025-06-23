@@ -4,7 +4,7 @@ import AddCircleIcon from '@material-ui/icons/AddCircle';
 
 const styles = {
     root: {
-        height: '120px',
+        height: '130px',
         width: '100%',
     },
 };
