@@ -1,6 +1,6 @@
 const styles = {
     card: {
-        height: '400px',
+        height: '450px',
     },
     content: {
         height: '100%',
